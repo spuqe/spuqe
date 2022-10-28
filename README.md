@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuqe&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuqe&layout=compact&theme=chartreuse-dark&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spuqe&show_icons=true&theme=chartreuse-dark" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spuqe&count_private=true&show_icons=true&theme=radical" />
