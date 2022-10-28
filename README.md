@@ -9,6 +9,6 @@
             
 <p> 
   <h1 align="center">Visitor count since 2021<br>
-  <img src="https://profile-counter.glitch.me/spuqe/count.svg" />
+  <img src="https://profile-counter.glitch.me/spuqe/count.svg&theme=radical" />
     </h1>
 </p>
