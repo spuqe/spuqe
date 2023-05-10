@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **My mom told me I'm handsome**</p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/t0rcry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t0rcry" height="30" width="40" /></a>
@@ -49,9 +53,3 @@
   <img src="https://profile-counter.glitch.me/spuqe/count.svg" />
     </h1>
 </p>
-
-
-# Medium posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
