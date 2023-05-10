@@ -7,6 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=spuqe&count_private=true&show_icons=true&theme=radical" />
 </p>
 
+<a href="https://testaustime.fi">
+  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=graphene&layout=compact&range=7&langs_count=10&bg_color=001219&text_color=94d2bd&icon_color=0a9396&title_color=ee9b00" />
+</a>
+
 <p align="center">      
 <img src="https://i.imgur.com/7SDkYwo.gif"/>
 </p>
