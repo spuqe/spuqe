@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spuqe</h1>
 <h3 align="center">A passionate developer from Finland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spuqe&label=Profile%20views&color=0e75b6&style=flat" alt="spuqe" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spuqe" alt="spuqe" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/t0rcry" target="blank"><img src="https://img.shields.io/twitter/follow/t0rcry?logo=twitter&style=for-the-badge" alt="t0rcry" /></a> </p>
@@ -21,6 +19,7 @@
 <a href="https://medium.com/@spuqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spuqe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/spuqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spuqe" height="30" width="40" /></a>
 <a href="https://discord.gg/cyber-underground-900619671072567326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="729542842522927226" height="30" width="40" /></a>
+<a href="https://discord.com/user/729542842522927226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="729542842522927226" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
