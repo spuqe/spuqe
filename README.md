@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://testaustime.fi">
-  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=graph&layout=compact&range=999&langs_count=10&bg_color=001219&text_color=94d2bd&icon_color=0a9396&title_color=ee9b00" />
+  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=graph&layout=compact&range=999&langs_count=20&bg_color=001219&text_color=94d2bd&icon_color=0a9396&title_color=ee9b00" />
 </a>
 </p>
 
