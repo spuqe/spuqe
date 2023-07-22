@@ -16,7 +16,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Hi there! I'm a passionate developer based in Finland, and I love creating amazing projects. Currently, I'm focused on developing **rshell**, an exciting project that keeps me motivated and learning every day.
+  Hi there! I'm a passionate developer based in Finland, and I love creating amazing projects. Currently, I'm focused on developing rshell, an exciting project that keeps me motivated and learning every day.
 </p>
 
 <h3 align="center">Blogs</h3>
