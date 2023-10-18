@@ -37,7 +37,7 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/GHS088" target="blank">
+  <a href="https://twitter.com/GHS081" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t0rcry" height="30" width="40" />
   </a>
   <a href="https://medium.com/@graph33" target="blank">
