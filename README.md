@@ -23,28 +23,25 @@
 <h3 align="center">Blogs</h3>
 
 <p align="center">
-  Check out my latest articles on <a href="https://spuqe.medium.com/">Medium</a>:
+  Check out my latest articles on <a href="https://graph33.medium.com/">Medium</a>:
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [What Targeted Advertising Is And How It Affects Us](https://spuqe.medium.com/what-targeted-advertising-is-and-how-it-affects-us-3bbb36c36cd3?source=rss-9f93260ab231------2)
-- [How AI Can Help You Make Money](https://spuqe.medium.com/how-ai-can-help-you-make-money-627ef6e5881f?source=rss-9f93260ab231------2)
-- [Impact of cryptocurrencies on the economy and on individual freedom](https://spuqe.medium.com/impact-of-cryptocurrencies-on-the-economy-and-on-individual-freedom-292e4b7056a5?source=rss-9f93260ab231------2)
-- [Did Sam Bankman-fried crash the market on purpose?](https://spuqe.medium.com/did-sam-bankman-fried-crash-the-market-on-purpose-587943b98f6c?source=rss-9f93260ab231------2)
-- [FTX BANKRUPTCY IS WORSE THAN WE THOUGHT!](https://spuqe.medium.com/ftx-bankruptcy-is-worse-than-we-thought-b9de2a95be29?source=rss-9f93260ab231------2)
+- [What Targeted Advertising Is And How It Affects Us](https://graph33.medium.com/what-targeted-advertising-is-and-how-it-affects-us-3bbb36c36cd3?source=rss-9f93260ab231------2)
+- [How AI Can Help You Make Money](https://graph33.medium.com/how-ai-can-help-you-make-money-627ef6e5881f?source=rss-9f93260ab231------2)
+- [Impact of cryptocurrencies on the economy and on individual freedom](https://graph33.medium.com/impact-of-cryptocurrencies-on-the-economy-and-on-individual-freedom-292e4b7056a5?source=rss-9f93260ab231------2)
+- [Did Sam Bankman-fried crash the market on purpose?](https://graph33.medium.com/did-sam-bankman-fried-crash-the-market-on-purpose-587943b98f6c?source=rss-9f93260ab231------2)
+- [FTX BANKRUPTCY IS WORSE THAN WE THOUGHT!](https://graph33.medium.com/ftx-bankruptcy-is-worse-than-we-thought-b9de2a95be29?source=rss-9f93260ab231------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/t0rcry" target="blank">
+  <a href="https://twitter.com/GHS088" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t0rcry" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@spuqe" target="blank">
+  <a href="https://medium.com/@graph33" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spuqe" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/spuqe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spuqe" height="30" width="40" />
   </a>
   <a href="https://discord.gg/cyber-underground-900619671072567326" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="729542842522927226" height="30" width="40" />
