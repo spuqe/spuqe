@@ -27,11 +27,11 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Story of Julius “ZeeKill” Kivimäki](https://graph33.medium.com/story-of-julius-zeekill-kivim%C3%A4ki-7e15ea7f56b7?source=rss-9f93260ab231------2)
+- [Creating a C# XOR Cipher encrypting System](https://graph33.medium.com/creating-a-c-xor-cipher-encrypting-system-45d65d4b4183?source=rss-9f93260ab231------2)
 - [What Targeted Advertising Is And How It Affects Us](https://graph33.medium.com/what-targeted-advertising-is-and-how-it-affects-us-3bbb36c36cd3?source=rss-9f93260ab231------2)
 - [How AI Can Help You Make Money](https://graph33.medium.com/how-ai-can-help-you-make-money-627ef6e5881f?source=rss-9f93260ab231------2)
 - [Impact of cryptocurrencies on the economy and on individual freedom](https://graph33.medium.com/impact-of-cryptocurrencies-on-the-economy-and-on-individual-freedom-292e4b7056a5?source=rss-9f93260ab231------2)
-- [Did Sam Bankman-fried crash the market on purpose?](https://graph33.medium.com/did-sam-bankman-fried-crash-the-market-on-purpose-587943b98f6c?source=rss-9f93260ab231------2)
-- [FTX BANKRUPTCY IS WORSE THAN WE THOUGHT!](https://graph33.medium.com/ftx-bankruptcy-is-worse-than-we-thought-b9de2a95be29?source=rss-9f93260ab231------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with Me</h3>
