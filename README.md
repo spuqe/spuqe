@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/t0rcry" target="blank">
+  <a href="https://twitter.com/ghs081" target="blank">
     <img src="https://img.shields.io/twitter/follow/t0rcry?logo=twitter&style=for-the-badge" alt="t0rcry" />
   </a>
 </p>
