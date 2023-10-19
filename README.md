@@ -49,6 +49,7 @@
   <a href="https://discord.com/user/729542842522927226" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="729542842522927226" height="30" width="40" />
   </a>
+  ![Discord](https://discord.c99.nl/widget/theme-2/729542842522927226.png)
 </p>
 
 <h3 align="center">Languages and Tools</h3>
