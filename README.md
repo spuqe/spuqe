@@ -27,11 +27,11 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Cryptocurrency: A Quick Guide](https://graph33.medium.com/introduction-to-cryptocurrency-a-quick-guide-6d54a19b8fff?source=rss-9f93260ab231------2)
 - [Python Program: Calculating GCD for Cryptography Using Euclidean Algorithm](https://graph33.medium.com/python-program-calculating-gcd-for-cryptography-using-euclidean-algorithm-551c98f67476?source=rss-9f93260ab231------2)
 - [Onko Taloustutkimukseen luottamista?](https://graph33.medium.com/onko-taloustutkimukseen-luottamista-8f573b28a80b?source=rss-9f93260ab231------2)
 - [Story of Julius “ZeeKill” Kivimäki](https://graph33.medium.com/story-of-julius-zeekill-kivim%C3%A4ki-7e15ea7f56b7?source=rss-9f93260ab231------2)
 - [Creating a C# XOR Cipher encrypting System](https://graph33.medium.com/creating-a-c-xor-cipher-encrypting-system-45d65d4b4183?source=rss-9f93260ab231------2)
-- [What Targeted Advertising Is And How It Affects Us](https://graph33.medium.com/what-targeted-advertising-is-and-how-it-affects-us-3bbb36c36cd3?source=rss-9f93260ab231------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with Me</h3>
