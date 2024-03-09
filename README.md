@@ -30,8 +30,8 @@
 - [Extracting Google Chrome Saved Passwords: A Cybersecurity Guide](https://graph33.medium.com/extracting-google-chrome-saved-passwords-a-cybersecurity-guide-28f04b715d72?source=rss-9f93260ab231------2)
 - [OTP Bypass Technique: Understanding One-Time Passwords](https://graph33.medium.com/otp-bypass-technique-understanding-one-time-passwords-477aaf99179f?source=rss-9f93260ab231------2)
 - [Bug Bounty: Tips for Finding Your First Bug as a Beginner](https://graph33.medium.com/bug-bounty-tips-for-finding-your-first-bug-as-a-beginner-120f71c709cd?source=rss-9f93260ab231------2)
+- [Becoming a Hacker: From 0 to Hero — Learning the Basics](https://graph33.medium.com/becoming-a-hacker-from-0-to-hero-learning-the-basics-c9aeb4b16634?source=rss-9f93260ab231------2)
 - [Introduction to Cryptocurrency: A Quick Guide](https://graph33.medium.com/introduction-to-cryptocurrency-a-quick-guide-6d54a19b8fff?source=rss-9f93260ab231------2)
-- [Python Program: Calculating GCD for Cryptography Using Euclidean Algorithm](https://graph33.medium.com/python-program-calculating-gcd-for-cryptography-using-euclidean-algorithm-551c98f67476?source=rss-9f93260ab231------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with Me</h3>
